@@ -1,0 +1,1 @@
+const extract=require('./name');
